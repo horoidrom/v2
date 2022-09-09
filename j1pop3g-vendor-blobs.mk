@@ -48,7 +48,7 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/j1pop3g/proprietary/etc/firmware/scx35_pikeavivaltove_3M_MARLIN_connectivity_configure.ini.bin:system/etc/firmware/scx35_pikeavivaltove_3M_MARLIN_connectivity_configure.ini \
     vendor/samsung/j1pop3g/proprietary/etc/firmware/scx35_pikeavivaltove_3M_MARLIN_connectivity_calibration.ini:system/etc/firmware/scx35_pikeavivaltove_3M_MARLIN_connectivity_calibration.ini \
     vendor/samsung/j1pop3g/proprietary/etc/firmware/sc2331_fw.bin:system/etc/firmware/sc2331_fw.bin \
-	vendor/samsung/j1pop3g/proprietary/etc/wifi/mcs.ini:system/etc/wifi/mcs.ini \
+    vendor/samsung/j1pop3g/proprietary/etc/wifi/mcs.ini:system/etc/wifi/mcs.ini \
     vendor/samsung/j1pop3g/proprietary/bin/macloader:system/bin/macloader \
     vendor/samsung/j1pop3g/proprietary/bin/mfgloader:system/bin/mfgloader \
     vendor/samsung/j1pop3g/proprietary/bin/rild:system/bin/rild \
